@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📐 PRD & Architecture Wiki (agents-usage-mac-wiki)"
+    url: https://github.com/YongsDevStudy/agents-usage-mac-wiki/blob/main/wiki/syntheses/prd-agents-usage-mac.md
+    about: "기능 요구사항(FR-01~07), 아키텍처, 데이터 정확도 원칙 확인"
+  - name: "🗂️ Planning & Research Issues"
+    url: https://github.com/YongsDevStudy/agents-usage-mac-wiki/issues
+    about: "기획·설계(ADR/TDD)·로그 검증 이슈는 wiki 저장소에 등록"
